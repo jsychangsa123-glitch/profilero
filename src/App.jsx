@@ -1,8 +1,7 @@
-import React from 'react';
-import TodoList from './TodoList';
+import InputMirror from './InputMirror';
 import './App.css';
 const App = () => {
-  return <TodoList />;
+  return <InputMirror />;
 };
 
 export default App;
